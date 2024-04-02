@@ -6,7 +6,7 @@ Run docker-compose file:
 ```bash
 docker-compose up -d
 ```
-Then go to this url:
+Then go to this urls:
 ```bash
 http://127.0.0.1:8080/books
 http://127.0.0.1:8080/authors
