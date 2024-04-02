@@ -12,7 +12,7 @@ http://127.0.0.1:8080/books
 http://127.0.0.1:8080/authors
 http://127.0.0.1:8080/metrics
 ```
-Here you can see how many times you have opened `/books`, `/authors` or some other path. There is also a lot of additional information - server response time, etc.
+The last shows how many times you have opened `/books`, `/authors` or some other path. There is also a lot of additional information - server response time, etc.
 
 ### Step 2.
 Make requests:
